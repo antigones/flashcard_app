@@ -78,10 +78,10 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/index-B4Mnpjs9.css",
+    "url": "assets/index-B-12zp8g.css",
     "revision": null
   }, {
-    "url": "assets/index-DpJFpdSw.js",
+    "url": "assets/index-Dg3CmHOd.js",
     "revision": null
   }, {
     "url": "assets/primeicons-Dr5RGzOO.svg",
@@ -91,7 +91,7 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "71dcfd191507c31dc79efe3341dfa3b9"
   }, {
     "url": "index.html",
-    "revision": "366ab3cc570f2bbe8b0db8f391d09a7b"
+    "revision": "4ebb433f782f72d6055c89ded9ff58e6"
   }, {
     "url": "manifest.webmanifest",
     "revision": "2fd3049abb1967a2a41dd145dab0ae3c"
