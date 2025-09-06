@@ -78,10 +78,10 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
    * See https://goo.gl/S9QRab
    */
   workbox.precacheAndRoute([{
-    "url": "assets/index-B-12zp8g.css",
+    "url": "assets/index-CIBE5dKY.js",
     "revision": null
   }, {
-    "url": "assets/index-Dg3CmHOd.js",
+    "url": "assets/index-WEe6jVz9.css",
     "revision": null
   }, {
     "url": "assets/primeicons-Dr5RGzOO.svg",
@@ -91,10 +91,10 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "71dcfd191507c31dc79efe3341dfa3b9"
   }, {
     "url": "index.html",
-    "revision": "4ebb433f782f72d6055c89ded9ff58e6"
+    "revision": "d42553bde2b179d72b0c5526d58e0ec1"
   }, {
     "url": "manifest.webmanifest",
-    "revision": "2fd3049abb1967a2a41dd145dab0ae3c"
+    "revision": "dfb2acd0e8acd4ee14b6f135a1f32297"
   }, {
     "url": "pwa-192x192.png",
     "revision": "f24c9384006bbc8de95ed69990459dca"
@@ -103,7 +103,7 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "4db5b8fe442a8f8fdc6e35cd40138057"
   }, {
     "url": "registerSW.js",
-    "revision": "1872c500de691dce40960bb85481de07"
+    "revision": "a35feb1d92c08135177a0a97f105b2da"
   }, {
     "url": "vite.svg",
     "revision": "8e3a10e157f75ada21ab742c022d5430"
@@ -118,7 +118,7 @@ define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
     "revision": "4db5b8fe442a8f8fdc6e35cd40138057"
   }, {
     "url": "manifest.webmanifest",
-    "revision": "2fd3049abb1967a2a41dd145dab0ae3c"
+    "revision": "dfb2acd0e8acd4ee14b6f135a1f32297"
   }], {});
   workbox.cleanupOutdatedCaches();
   workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html")));
